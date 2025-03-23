@@ -99,8 +99,11 @@ GeoVision AI is a Deep Learning-based application that extracts location names f
 
 ## User Roles and Access
 - **Super Admin**: Full access to all features, including user management and image location administration.
+<img src="screenshots/SuperAdmin1.png" width="600" height="auto" />
 - **Admin**: Can manage image locations and view some data but cannot manage users.
+<<img src="screenshots/Admin.png" width="600" height="auto" />>
 - **User**: Can only view image locations, their details, and the calculated distance/cost.
+<img src="screenshots/User.png" width="600" height="auto" />
 
 ## Contributing
 1. Fork the repository.
@@ -111,7 +114,4 @@ GeoVision AI is a Deep Learning-based application that extracts location names f
 
 ## License
 This project is licensed under the MIT License.
-```
-
----
 
